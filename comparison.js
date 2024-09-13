@@ -13,5 +13,5 @@ console.log("Loose inequality (!=):", firstFavNumb != secondFavNumb);
 
 
 console.log("AND:", firstFavNumb > 7 && secondFavNumb > 15);
-console.log("OR :", firstFavNumb > 7 || secondFavNumb < 15); 
-console.log("NOT (!):", !(firstFavNumb < 7)); 
+console.log("OR:", firstFavNumb > 7 || secondFavNumb < 15); 
+console.log("NOT:", !(firstFavNumb < 7)); 
